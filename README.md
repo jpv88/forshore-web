@@ -8,7 +8,7 @@ El nombre confirmado en App Store Connect es **Forshore: Tide Rescue**. La web u
 
 ## Actualizar la web
 
-1. Utiliza el repositorio existente **`jpv88/forshore-web`**. La web anterior ya está publicada; este paquete prepara la actualización con el nombre confirmado y el soporte de iCloud.
+1. Utiliza el repositorio existente **`jpv88/forshore-web`**. La web anterior ya está publicada; este paquete prepara la actualización 0.18.2 con el nombre confirmado, la continuación entre dispositivos y la reactivación explícita de iCloud.
 2. Sube **el contenido de esta carpeta**, con `index.html` en la raíz del repositorio. Conserva las carpetas `en` y `assets`. El ZIP independiente ya contiene esta estructura. No subas el proyecto iOS completo al repositorio de la web.
 3. En el repositorio, abre **Settings → Pages**. Elige **Deploy from a branch**, rama **main**, carpeta **/(root)** y guarda.
 4. Cuando GitHub termine, abre la dirección que muestra Pages y comprueba inicio, soporte, privacidad y el cambio de idioma desde un iPhone.
