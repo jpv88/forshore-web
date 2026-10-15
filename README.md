@@ -8,10 +8,10 @@ El nombre confirmado en App Store Connect es **Forshore: Tide Rescue**. La web u
 
 ## Actualizar la web
 
-1. Utiliza el repositorio existente **`jpv88/forshore-web`**. La web anterior ya está publicada; este paquete prepara la actualización 0.18.2 con el nombre confirmado, la continuación entre dispositivos y la reactivación explícita de iCloud.
+1. Utiliza el repositorio existente **`jpv88/forshore-web`**. La web anterior ya está publicada; esta carpeta prepara la actualización para **2.2 (47)**: 45 islas (un tutorial de nueve lecciones y nueve grupos de cuatro; 14 gratuitas y 31 con la compra), iPhone y iPad, avance solo rescatando a todas las personas, islas en el orden del mapa y sonido activado por defecto.
 2. Sube **el contenido de esta carpeta**, con `index.html` en la raíz del repositorio. Conserva las carpetas `en` y `assets`. El ZIP independiente ya contiene esta estructura. No subas el proyecto iOS completo al repositorio de la web.
 3. En el repositorio, abre **Settings → Pages**. Elige **Deploy from a branch**, rama **main**, carpeta **/(root)** y guarda.
-4. Cuando GitHub termine, abre la dirección que muestra Pages y comprueba inicio, soporte, privacidad y el cambio de idioma desde un iPhone.
+4. Cuando GitHub termine, abre la dirección que muestra Pages y comprueba inicio, soporte, privacidad y el cambio de idioma desde un iPhone y un iPad.
 
 El método se documenta en la [guía oficial de GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site). GitHub Free permite usar Pages desde repositorios públicos; otros planes también lo permiten desde repositorios privados. Las páginas publicadas son públicas.
 
@@ -25,7 +25,7 @@ Las URLs confirmadas están incorporadas a `Release/metadata.json` del proyecto 
 | Soporte | https://jpv88.github.io/forshore-web/soporte.html | https://jpv88.github.io/forshore-web/en/support.html |
 | Privacidad | https://jpv88.github.io/forshore-web/privacidad.html | https://jpv88.github.io/forshore-web/en/privacy.html |
 
-Las seis páginas anteriores respondieron correctamente en la comprobación de la entrega 0.18.0. **Este ZIP actualizado con el nombre Forshore: Tide Rescue y el contenido de iCloud está pendiente de subir a GitHub:** sustituye los HTML y `styles.css` en el repositorio cuando vayas a distribuir la versión que incorpora esa función y vuelve a comprobar las seis direcciones. Los enlaces relativos permiten alojar también en un dominio propio, pero no hace falta.
+La comprobación HTTP de la auditoría de 2.1 (38), el 1 de octubre de 2026, encontró las páginas públicas con cifras anteriores (24 islas, 6 gratuitas), rescates parciales que cuentan y sonido desactivado al empezar. La segunda auditoría (13-10-2026) las vio todavía con esas cifras. **Esta carpeta, regenerada para 2.2 (47), está pendiente de subir a GitHub:** sustituye los HTML y `styles.css` en el repositorio antes de distribuir la versión. Después vuelve a comprobar las seis direcciones: 45 islas, 14 gratuitas y 31 con la compra, regla de salvar a todos, iPhone y iPad, y sonido activado. Los enlaces relativos permiten alojar también en un dominio propio, pero no hace falta.
 
 ## Contenido y mantenimiento
 
